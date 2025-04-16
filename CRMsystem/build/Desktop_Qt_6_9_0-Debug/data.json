@@ -1,0 +1,287 @@
+{
+    "customers": [
+        {
+            "address": "동탄",
+            "company": "skhynix",
+            "id": "85957b9b-0fd3-45e1-b2da-23fec46cad88",
+            "manager": "이지현",
+            "memo": ".",
+            "phone": "01012345618"
+        },
+        {
+            "address": "NYC",
+            "company": "SONY",
+            "id": "d10cc0a1-1bf4-40fa-9ad0-c93c662c29f6",
+            "manager": "아무개",
+            "memo": "카메라",
+            "phone": "01012345678"
+        },
+        {
+            "address": "서울ㅇ",
+            "company": "농심",
+            "id": "7ebd7344-a089-440a-bba5-0dfa6734d4dc",
+            "manager": "너굴",
+            "memo": "ㅇㄹㅇ",
+            "phone": "2010123"
+        },
+        {
+            "address": "도쿄",
+            "company": "닌텐도",
+            "id": "1bcc6ca5-144c-4f61-bb4c-2dcfc1c17855",
+            "manager": "다카무라",
+            "memo": "고장",
+            "phone": "010789"
+        },
+        {
+            "address": "서울",
+            "company": "로지텍",
+            "id": "3fa99d1b-ff6a-445e-b286-5edde4888d2a",
+            "manager": "아무",
+            "memo": ".",
+            "phone": "0010"
+        },
+        {
+            "address": "USA",
+            "company": "tesla",
+            "id": "c707e3c9-9f7d-4dcd-94e9-6c651adc97ac",
+            "manager": "일론머스크",
+            "memo": "차량",
+            "phone": "010787788"
+        },
+        {
+            "address": "분당",
+            "company": "LG전자",
+            "id": "9b979160-5f1b-4b55-a22d-faa87f83a48c",
+            "manager": "김ㅇㅇ",
+            "memo": "공장..",
+            "phone": "01078945"
+        },
+        {
+            "address": "성남",
+            "company": "한화비전",
+            "id": "5e23e818-2039-4194-a7f9-8a6b92338c43",
+            "manager": "이정화",
+            "memo": "0.0",
+            "phone": "01012345689"
+        }
+    ],
+    "reservations": [
+        {
+            "customerId": "1b2875a8-b93a-4cbe-97e0-b9b7d015099b",
+            "date": "2025-04-23",
+            "id": "82a2ee88-bbe1-4cb7-aa1e-7e5caa8ca313",
+            "status": "Pending",
+            "time": "04:00"
+        },
+        {
+            "customerId": "1b2875a8-b93a-4cbe-97e0-b9b7d015099b",
+            "date": "2025-04-22",
+            "id": "5aeae720-694f-4fe1-a8c9-471ef5934488",
+            "status": "Pending",
+            "time": "06:00"
+        },
+        {
+            "customerId": "1b2875a8-b93a-4cbe-97e0-b9b7d015099b",
+            "date": "2025-04-16",
+            "id": "9ef24900-bd22-479a-bafc-d19704162751",
+            "status": "Pending",
+            "time": "06:00"
+        },
+        {
+            "customerId": "1bcc6ca5-144c-4f61-bb4c-2dcfc1c17855",
+            "date": "2025-04-16",
+            "id": "803a71d4-e2bf-4aaf-8bbe-00afac50c29c",
+            "status": "Pending",
+            "time": "23:00"
+        },
+        {
+            "customerId": "1bcc6ca5-144c-4f61-bb4c-2dcfc1c17855",
+            "date": "2025-04-16",
+            "id": "087c2ca2-ff29-4a7e-99e0-d070b35cb4a6",
+            "status": "Pending",
+            "time": "08:00"
+        },
+        {
+            "customerId": "3fa99d1b-ff6a-445e-b286-5edde4888d2a",
+            "date": "2025-04-16",
+            "id": "b6db81d0-18cf-40bd-9fda-102930af84b6",
+            "status": "Pending",
+            "time": "15:00"
+        },
+        {
+            "customerId": "3fa99d1b-ff6a-445e-b286-5edde4888d2a",
+            "date": "2025-04-15",
+            "id": "ed9a8a87-68e6-41be-8838-d367f1a2b84f",
+            "status": "Pending",
+            "time": "18:00"
+        },
+        {
+            "customerId": "3fa99d1b-ff6a-445e-b286-5edde4888d2a",
+            "date": "2025-04-16",
+            "id": "9b7b5664-cb67-4c8b-9d6a-e7402c229aa2",
+            "status": "Pending",
+            "time": "18:00"
+        },
+        {
+            "customerId": "3fa99d1b-ff6a-445e-b286-5edde4888d2a",
+            "date": "2025-04-16",
+            "id": "71d45057-69c4-437d-b582-f2f8403d3164",
+            "status": "Pending",
+            "time": "22:00"
+        },
+        {
+            "customerId": "5e23e818-2039-4194-a7f9-8a6b92338c43",
+            "date": "2025-04-15",
+            "id": "1c150798-afa0-41f4-bc7a-0aeb5d3832af",
+            "status": "Pending",
+            "time": "05:00"
+        },
+        {
+            "customerId": "5e23e818-2039-4194-a7f9-8a6b92338c43",
+            "date": "2025-04-18",
+            "id": "a5c7bef5-4c40-4a0c-a21a-964ce36143c5",
+            "status": "Pending",
+            "time": "00:00"
+        },
+        {
+            "customerId": "7ebd7344-a089-440a-bba5-0dfa6734d4dc",
+            "date": "2025-04-15",
+            "id": "72ecaee9-ff6f-48f7-8113-df5c76d62b9f",
+            "status": "Completed",
+            "time": "14:00"
+        },
+        {
+            "customerId": "7ebd7344-a089-440a-bba5-0dfa6734d4dc",
+            "date": "2025-04-15",
+            "id": "b86d01a9-610d-4813-bd8f-4db2e2d57550",
+            "status": "Completed",
+            "time": "16:00"
+        },
+        {
+            "customerId": "7ebd7344-a089-440a-bba5-0dfa6734d4dc",
+            "date": "2025-04-16",
+            "id": "e12dee92-afac-4e0c-ae0e-db011e24b6bd",
+            "status": "Completed",
+            "time": "13:00"
+        },
+        {
+            "customerId": "85957b9b-0fd3-45e1-b2da-23fec46cad88",
+            "date": "2025-04-15",
+            "id": "df49858c-017b-4fa4-b5e8-b7c4379758cc",
+            "status": "Completed",
+            "time": "00:00"
+        },
+        {
+            "customerId": "85957b9b-0fd3-45e1-b2da-23fec46cad88",
+            "date": "2025-04-15",
+            "id": "1abea98a-3e92-49bd-a27b-cc140405163b",
+            "status": "Completed",
+            "time": "03:00"
+        },
+        {
+            "customerId": "85957b9b-0fd3-45e1-b2da-23fec46cad88",
+            "date": "2025-04-15",
+            "id": "e140ddcf-eab7-43c5-8670-009dd1496ce7",
+            "status": "Pending",
+            "time": "06:00"
+        },
+        {
+            "customerId": "85957b9b-0fd3-45e1-b2da-23fec46cad88",
+            "date": "2025-04-15",
+            "id": "be176f22-74dc-4ea8-8375-335554855fbd",
+            "status": "Pending",
+            "time": "10:00"
+        },
+        {
+            "customerId": "85957b9b-0fd3-45e1-b2da-23fec46cad88",
+            "date": "2025-04-15",
+            "id": "2c5bea3e-ff0a-4dc7-8b04-b636e650f1a6",
+            "status": "Pending",
+            "time": "13:00"
+        },
+        {
+            "customerId": "9b979160-5f1b-4b55-a22d-faa87f83a48c",
+            "date": "2025-04-16",
+            "id": "8216132c-7f4a-49c4-9d8a-34570fdecbf7",
+            "status": "Pending",
+            "time": "03:00"
+        },
+        {
+            "customerId": "9b979160-5f1b-4b55-a22d-faa87f83a48c",
+            "date": "2025-04-16",
+            "id": "9b8e7b11-4ca0-492a-a0d1-73d497c6d560",
+            "status": "Pending",
+            "time": "07:00"
+        },
+        {
+            "customerId": "b0e7a481-8cb1-4162-8ef7-e8164f92fd65",
+            "date": "2025-04-16",
+            "id": "f61d2821-6deb-4f74-92eb-4e29d40de7fc",
+            "status": "Pending",
+            "time": "14:00"
+        },
+        {
+            "customerId": "c707e3c9-9f7d-4dcd-94e9-6c651adc97ac",
+            "date": "2025-04-16",
+            "id": "039bb954-985c-4534-853f-bbb0045fd2bc",
+            "status": "Pending",
+            "time": "01:00"
+        },
+        {
+            "customerId": "c707e3c9-9f7d-4dcd-94e9-6c651adc97ac",
+            "date": "2025-04-16",
+            "id": "45b2c423-8a25-438f-9021-c49d5d3bcaaf",
+            "status": "Pending",
+            "time": "11:00"
+        },
+        {
+            "customerId": "d10cc0a1-1bf4-40fa-9ad0-c93c662c29f6",
+            "date": "2025-04-16",
+            "id": "2948f2b7-5621-4be4-a801-a0381fda7d24",
+            "status": "Pending",
+            "time": "02:00"
+        },
+        {
+            "customerId": "ef257d89-484d-4e32-8837-9a53bb294f6c",
+            "date": "2025-04-22",
+            "id": "02e2a6f3-6a61-4b63-b999-15d7c986a543",
+            "status": "Pending",
+            "time": "00:00"
+        },
+        {
+            "customerId": "ef257d89-484d-4e32-8837-9a53bb294f6c",
+            "date": "2025-04-23",
+            "id": "e325b1c5-865f-4cd9-8716-a95e173b37b5",
+            "status": "Pending",
+            "time": "06:00"
+        },
+        {
+            "customerId": "ef257d89-484d-4e32-8837-9a53bb294f6c",
+            "date": "2025-04-23",
+            "id": "15f7a4ef-2c8c-4098-93f8-66f4efae047f",
+            "status": "Pending",
+            "time": "11:00"
+        },
+        {
+            "customerId": "f07a62ce-c4a4-44b5-a84f-90529d0ccaaf",
+            "date": "2025-04-15",
+            "id": "9dd12527-c5ec-43de-8777-f4343c159620",
+            "status": "Pending",
+            "time": "01:00"
+        },
+        {
+            "customerId": "f07a62ce-c4a4-44b5-a84f-90529d0ccaaf",
+            "date": "2025-04-15",
+            "id": "005f41de-89a8-4632-aab9-d2cb0d9c9e20",
+            "status": "Pending",
+            "time": "12:00"
+        },
+        {
+            "customerId": "f07a62ce-c4a4-44b5-a84f-90529d0ccaaf",
+            "date": "2025-04-15",
+            "id": "3f3b416b-f405-444a-bdaa-c5649d86c283",
+            "status": "Pending",
+            "time": "17:00"
+        }
+    ]
+}

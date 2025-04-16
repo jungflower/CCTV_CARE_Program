@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_CRMsystem_FILE /home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CRMsystem)
+set(__QT_DEPLOY_TARGET_CRMsystem_TYPE EXECUTABLE)

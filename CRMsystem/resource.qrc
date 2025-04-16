@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>fonts/NanumSquareNeo-bRg.ttf</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>fonts/NanumSquareNeo-cBd.ttf</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/add.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/search.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/edit.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/delete.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/total.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/reservation.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/clock.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/check.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/left.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/right.png</file>
+    </qresource>
+</RCC>

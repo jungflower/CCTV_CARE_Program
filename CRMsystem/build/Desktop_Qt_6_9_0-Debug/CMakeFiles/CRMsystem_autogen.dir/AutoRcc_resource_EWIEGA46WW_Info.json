@@ -1,0 +1,36 @@
+{
+	"BUILD_DIR" : "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CRMsystem_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jioh/CRMsystem",
+	"CMAKE_SOURCE_DIR" : "/home/jioh/CRMsystem",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CRMsystem_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/jioh/CRMsystem/icon/delete.png",
+		"/home/jioh/CRMsystem/icon/left.png",
+		"/home/jioh/CRMsystem/icon/check.png",
+		"/home/jioh/CRMsystem/icon/search.png",
+		"/home/jioh/CRMsystem/icon/clock.png",
+		"/home/jioh/CRMsystem/icon/total.png",
+		"/home/jioh/CRMsystem/icon/add.png",
+		"/home/jioh/CRMsystem/icon/reservation.png",
+		"/home/jioh/CRMsystem/icon/right.png",
+		"/home/jioh/CRMsystem/icon/edit.png",
+		"/home/jioh/CRMsystem/fonts/NanumSquareNeo-bRg.ttf",
+		"/home/jioh/CRMsystem/fonts/NanumSquareNeo-cBd.ttf"
+	],
+	"LOCK_FILE" : "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/CRMsystem_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/home/jioh/Qt/6.9.0/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/CRMsystem_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/jioh/CRMsystem/resource.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

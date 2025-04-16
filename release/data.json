@@ -1,0 +1,114 @@
+{
+    "customers": [
+        {
+            "address": "서울",
+            "company": "A회사",
+            "id": "ddf262b7-6d4c-491c-81b7-5926bb892ff6",
+            "imagePath": "C:/Users/2-25/Desktop/final/images/A회사_아무개_ddf262b7-6d4c-491c-81b7-5926bb892ff6.jpg",
+            "manager": "아무개",
+            "memo": "설치",
+            "phone": "01011111111"
+        },
+        {
+            "address": "경기도",
+            "company": "B회사",
+            "id": "958df903-1de3-4a94-9253-2e5814c6e3ee",
+            "imagePath": "",
+            "manager": "김무개",
+            "memo": "유지 보수",
+            "phone": "01022222222"
+        },
+        {
+            "address": "서울",
+            "company": "C회사",
+            "id": "698fe24f-bf05-4a3a-8683-73d51b3ca969",
+            "imagePath": "",
+            "manager": "박무개",
+            "memo": "유지 보수",
+            "phone": "01033333333"
+        },
+        {
+            "address": "서울",
+            "company": "D회사",
+            "id": "0305e057-4c19-4f2a-b5e2-1d66f89cce10",
+            "imagePath": "",
+            "manager": "이무개",
+            "memo": "설치",
+            "phone": "01044444444"
+        },
+        {
+            "address": "서울",
+            "company": "E회사",
+            "id": "fc127f6b-4fc3-4264-94a8-3a16f596e03d",
+            "imagePath": "",
+            "manager": "황무개",
+            "memo": "유지 보수",
+            "phone": "01055555555"
+        }
+    ],
+    "reservations": [
+        {
+            "customerId": "0305e057-4c19-4f2a-b5e2-1d66f89cce10",
+            "date": "2025-04-16",
+            "id": "84235e28-847b-4af4-8dac-b2436ba6ee10",
+            "status": " ",
+            "time": "17:00"
+        },
+        {
+            "customerId": "698fe24f-bf05-4a3a-8683-73d51b3ca969",
+            "date": "2025-04-16",
+            "id": "8de30773-cc8d-4c73-b0b5-28b29852115a",
+            "status": " ",
+            "time": "17:00"
+        },
+        {
+            "customerId": "698fe24f-bf05-4a3a-8683-73d51b3ca969",
+            "date": "2025-04-16",
+            "id": "f3a9e1fb-a86a-4cdc-9421-514aa8b32064",
+            "status": " ",
+            "time": "15:00"
+        },
+        {
+            "customerId": "958df903-1de3-4a94-9253-2e5814c6e3ee",
+            "date": "2025-04-16",
+            "id": "b7927f16-3a97-457a-9c48-9f7e7f678574",
+            "status": " ",
+            "time": "17:00"
+        },
+        {
+            "customerId": "958df903-1de3-4a94-9253-2e5814c6e3ee",
+            "date": "2025-04-16",
+            "id": "ad28c860-9626-4410-b0e3-44db4aac8c25",
+            "status": " ",
+            "time": "05:00"
+        },
+        {
+            "customerId": "ddf262b7-6d4c-491c-81b7-5926bb892ff6",
+            "date": "2025-04-18",
+            "id": "4dfbc6e6-be09-4ec3-a872-9e1d44eda4cb",
+            "status": "Completed",
+            "time": "00:00"
+        },
+        {
+            "customerId": "ddf262b7-6d4c-491c-81b7-5926bb892ff6",
+            "date": "2025-04-19",
+            "id": "110f89bd-0264-413f-879d-c2c18db277a8",
+            "status": " ",
+            "time": "00:00"
+        },
+        {
+            "customerId": "ddf262b7-6d4c-491c-81b7-5926bb892ff6",
+            "date": "2025-04-16",
+            "id": "b5baf6d7-cc79-4d2c-a338-21405debde5b",
+            "status": " ",
+            "time": "05:00"
+        },
+        {
+            "customerId": "fc127f6b-4fc3-4264-94a8-3a16f596e03d",
+            "date": "2025-04-16",
+            "id": "bad1e630-eb6c-4224-9e4e-547d8442dad3",
+            "status": " ",
+            "time": "16:00"
+        }
+    ]
+}

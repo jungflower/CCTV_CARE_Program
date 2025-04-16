@@ -1,0 +1,9 @@
+/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/CRMsystem.dir
+/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/edit_cache.dir
+/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/list_install_components.dir
+/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/install.dir
+/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/install/local.dir
+/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/install/strip.dir
+/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/CRMsystem_autogen_timestamp_deps.dir
+/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/CRMsystem_autogen.dir

@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CRMsystem_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jioh/CRMsystem",
+	"CMAKE_SOURCE_DIR" : "/home/jioh/CRMsystem",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CRMsystem_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/CRMsystem_autogen.dir/AutoRcc_fonts_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "fonts" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_fonts.cpp",
+	"RCC_EXECUTABLE" : "/home/jioh/Qt/6.9.0/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/CRMsystem_autogen.dir/AutoRcc_fonts_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/jioh/CRMsystem/fonts.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

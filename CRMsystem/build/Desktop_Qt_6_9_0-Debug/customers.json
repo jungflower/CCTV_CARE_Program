@@ -1,0 +1,38 @@
+[
+    {
+        "address": "서울시 강남구",
+        "company": "한화비전",
+        "id": "f3fe4669-d229-4323-9b77-3e9036778a5d",
+        "imagePath": "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/images/한화비전_이정화_f3fe4669-d229-4323-9b77-3e9036778a5d.jpg",
+        "manager": "이정화",
+        "memo": "설치",
+        "phone": "01045637899"
+    },
+    {
+        "address": "서울시 강동구",
+        "company": "SK하이닉스",
+        "id": "6b782385-473b-4c77-8227-f67b5549ddc0",
+        "imagePath": "/home/jioh/CRMsystem/build/Desktop_Qt_6_9_0-Debug/images/SK하이닉스_전지오_6b782385-473b-4c77-8227-f67b5549ddc0.jpg",
+        "manager": "전지오",
+        "memo": "유지 보수",
+        "phone": "01045697852"
+    },
+    {
+        "address": "경기도",
+        "company": "삼성",
+        "id": "f681f972-4ee0-403b-a3b3-729a0752e946",
+        "imagePath": "",
+        "manager": "아무개",
+        "memo": "설치",
+        "phone": "010123445678"
+    },
+    {
+        "address": "경기도",
+        "company": "닌텐도",
+        "id": "af654a5a-4565-431d-acab-c6fd35cb2ae0",
+        "imagePath": "",
+        "manager": "마리오",
+        "memo": "유지 보수",
+        "phone": "01078964562"
+    }
+]

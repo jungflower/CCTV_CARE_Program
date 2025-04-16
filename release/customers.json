@@ -1,0 +1,47 @@
+[
+    {
+        "address": "서울",
+        "company": "A회사",
+        "id": "ddf262b7-6d4c-491c-81b7-5926bb892ff6",
+        "imagePath": "C:/Users/2-25/Desktop/final/images/A회사_아무개_ddf262b7-6d4c-491c-81b7-5926bb892ff6.jpg",
+        "manager": "아무개",
+        "memo": "설치",
+        "phone": "01011111111"
+    },
+    {
+        "address": "경기도",
+        "company": "B회사",
+        "id": "958df903-1de3-4a94-9253-2e5814c6e3ee",
+        "imagePath": "",
+        "manager": "김무개",
+        "memo": "유지 보수",
+        "phone": "01022222222"
+    },
+    {
+        "address": "서울",
+        "company": "C회사",
+        "id": "698fe24f-bf05-4a3a-8683-73d51b3ca969",
+        "imagePath": "",
+        "manager": "박무개",
+        "memo": "유지 보수",
+        "phone": "01033333333"
+    },
+    {
+        "address": "서울",
+        "company": "D회사",
+        "id": "0305e057-4c19-4f2a-b5e2-1d66f89cce10",
+        "imagePath": "",
+        "manager": "이무개",
+        "memo": "설치",
+        "phone": "01044444444"
+    },
+    {
+        "address": "서울",
+        "company": "E회사",
+        "id": "fc127f6b-4fc3-4264-94a8-3a16f596e03d",
+        "imagePath": "",
+        "manager": "황무개",
+        "memo": "유지 보수",
+        "phone": "01055555555"
+    }
+]

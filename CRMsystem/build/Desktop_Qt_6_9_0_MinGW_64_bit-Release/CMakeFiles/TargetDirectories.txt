@@ -1,0 +1,9 @@
+C:/Users/2-25/Desktop/CRMsystem/CRMsystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/CRMsystem.dir
+C:/Users/2-25/Desktop/CRMsystem/CRMsystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/2-25/Desktop/CRMsystem/CRMsystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/2-25/Desktop/CRMsystem/CRMsystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/Users/2-25/Desktop/CRMsystem/CRMsystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/Users/2-25/Desktop/CRMsystem/CRMsystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/Users/2-25/Desktop/CRMsystem/CRMsystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/Users/2-25/Desktop/CRMsystem/CRMsystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/CRMsystem_autogen_timestamp_deps.dir
+C:/Users/2-25/Desktop/CRMsystem/CRMsystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/CRMsystem_autogen.dir
