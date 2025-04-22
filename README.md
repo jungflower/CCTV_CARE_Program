@@ -55,6 +55,19 @@
 
 ```
 
+### 📊 Gantt Chart 예시
+
+X축: 시간 (00:00 ~ 23:00)
+Y축: 고객사 (사전순 정렬)
+
+막대: 2시간 단위 예약 표시
+색상: 고객사마다 다르게 지정
+
+💡 예약이 없으면 “일정이 없습니다.” 메시지가 표시되며,
+시간대마다 연한 그리드 선이 생겨 직관적인 구분이 가능합니다.
+
+
+
 ## 🛠️ 사용 기술 및 도구
 
 | 항목 | 내용 |
@@ -64,6 +77,14 @@
 | UI 구성 | Qt Designer (QWidget, QTableWidget, QCalendarWidget 등) |
 | 데이터 저장 | JSON 기반 파일 저장 (`customers.json`, `data.json`) |
 | 기타 | UUID, Signal & Slot, QFile, QJsonDocument 등 |
+
+---
+
+## ✅ 빌드 환경
+
+1. Qt 6.9.0 이상
+2. C++17
+3. CMake or qmake
 
 ---
 
